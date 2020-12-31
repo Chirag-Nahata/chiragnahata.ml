@@ -66,8 +66,9 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 - **Chat on Messenger** - You can also chat with us on Messenger using this chat.
 
 # More
-[Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions)
+[Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions) : Feel free to discussion here
 
 For more information feel free to contact us.
 Hope You like our website. Fell free to give us your valuable feedback.
+
 **Thank You**
