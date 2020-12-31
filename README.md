@@ -5,6 +5,7 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 ## Contact Me :
 - Email ID : chiragnahata230805@gmail.com
 - Phone Number : +91 7439611385
+
 ## Follow Me
 - [Facebook](https://www.facebook.com/chiragnahata2005)
 - [Instagram](https://www.instagram.com/chiragnahata05/)
@@ -60,9 +61,9 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 - [NCERT Class 10 Hindi Kritika Book](https://drive.google.com/file/d/1HLj7vVCLkGjo2w1utlCy5LksvpvYjg-t/view?usp=sharing)
 
 ## FAQs
-- **[Live Chat]** - The bottom left side chat is the Live Chat with one of our representatives  
-- **[Chat Bot]** - The bottom right side chat is with the Chat Bot. It will take our issue and create a ticket. You can also book a meeting from it directly.
-- **[Chat on Messenger]** - You can also chat with us on Messenger using this chat.
+- **Live Chat** - The bottom left side chat is the Live Chat with one of our representatives  
+- **Chat Bot** - The bottom right side chat is with the Chat Bot. It will take our issue and create a ticket. You can also book a meeting from it directly.
+- **Chat on Messenger** - You can also chat with us on Messenger using this chat.
 
 # More
 [Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions)
