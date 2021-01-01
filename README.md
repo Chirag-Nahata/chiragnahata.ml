@@ -71,6 +71,7 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 [Appointment](https://meetings.hubspot.com/chiragnahata05) : Book a appointment with me
 
 For more information feel free to contact us.
-Hope You like our website. Fell free to give us your valuable feedback.
+
+Hope You like our website. Feel free to give us your valuable feedback.
 
 **Thank You**
