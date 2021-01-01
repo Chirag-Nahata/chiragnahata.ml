@@ -24,6 +24,9 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 ## Forms 
 - [Subscribe to our Newsletter](https://api.elasticemail.com/form?lid=IFU5WVGLEcN-Nk62-VzBYA2)
 
+## Surveys
+- [Educational Survey](https://www.survio.com/survey/d/F7S8U6T9E5H4P7J1X)
+
 ## My Apps
 ### The Study Desk App : The All in One Solution for Digital Learning
 - [Download](https://appstore.mobiroller.com/android-ios-market/education/887417/the-study-desk-mobile-application)
