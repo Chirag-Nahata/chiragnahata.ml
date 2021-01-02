@@ -37,9 +37,8 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 
 ## More
 [Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions) : Feel free to discussion here
-
 [Report a issue](https://github.com/Chirag-Nahata/chirag-nahata.github.io/issues)
-
+[Wiki](https://github.com/Chirag-Nahata/chirag-nahata.github.io/wiki)
 [Appointment](https://meetings.hubspot.com/chiragnahata05) : Book a appointment with me
 
 # CBSE
