@@ -35,6 +35,13 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 ### Secret Chat App : A Secure Chatting , Calling and Video Conferencing App
 - [Download](https://drive.google.com/file/d/1fEpJ-LJWJyb5upVowdocStxp7oG1u6rq/view?usp=sharing)
 
+## More
+[Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions) : Feel free to discussion here
+
+[Report a issue](https://github.com/Chirag-Nahata/chirag-nahata.github.io/issues)
+
+[Appointment](https://meetings.hubspot.com/chiragnahata05) : Book a appointment with me
+
 # CBSE
 - [Official Website](https://cbse.nic.in/)
 
@@ -67,11 +74,6 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 - **Live Chat** - The bottom left side chat is the Live Chat with one of our representatives  
 - **Chat Bot** - The bottom right side chat is with the Chat Bot. It will take our issue and create a ticket. You can also book a meeting from it directly.
 - **Chat on Messenger** - You can also chat with us on Messenger using this chat.
-
-# More
-[Discussion](https://github.com/Chirag-Nahata/chirag-nahata.github.io/discussions) : Feel free to discussion here
-
-[Appointment](https://meetings.hubspot.com/chiragnahata05) : Book a appointment with me
 
 For more information feel free to contact us.
 
