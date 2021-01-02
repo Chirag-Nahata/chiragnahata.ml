@@ -68,11 +68,6 @@ I am Chirag Nahata, the developer of this website. I am a student. This Website 
 - [NCERT Class 10 Hindi Shitij Book](https://drive.google.com/file/d/14A4IzdGb692aEW3T1PaNe_3HRXUhw6WY/view?usp=sharing)
 - [NCERT Class 10 Hindi Kritika Book](https://drive.google.com/file/d/1HLj7vVCLkGjo2w1utlCy5LksvpvYjg-t/view?usp=sharing)
 
-## FAQs
-- **Live Chat** - The bottom left side chat is the Live Chat with one of our representatives  
-- **Chat Bot** - The bottom right side chat is with the Chat Bot. It will take our issue and create a ticket. You can also book a meeting from it directly.
-- **Chat on Messenger** - You can also chat with us on Messenger using this chat.
-
 For more information feel free to contact us.
 
 Hope You like our website. Feel free to give us your valuable feedback.
