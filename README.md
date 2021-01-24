@@ -1,4 +1,4 @@
-# Inf0
+# Info
 Hi Everyone, 
 I am Chirag Nahata, the developer of this website.
 [More Information](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
