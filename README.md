@@ -1,25 +1,7 @@
-# About Me
+# Inf0
 Hi Everyone, 
-I am Chirag Nahata, the developer of this website. I am a student. This Website would be very helpful for all.
-
-## Contact Me :
-- Email ID : chiragnahata230805@gmail.com
-- Phone Number : +91 7439611385
-
-## Follow Me
-- [Facebook](https://www.facebook.com/chiragnahata2005)
-- [Instagram](https://www.instagram.com/chiragnahata05/)
-- [Twitter](https://twitter.com/nahata_chirag)
-- [Youtube](https://www.youtube.com/channel/UCTAS-WZW-vumSHwnKv7CoDw)
-
-## Join Me
-- [Facebook Page](https://www.facebook.com/Chirag-Nahata-101538458546147)
-- [Telegram Channel](https://t.me/chiragnahata2005)
-- [Telegram Discussion Group](https://t.me/chiragnahata2005discussion)
-- [Discord Server](https://discord.gg/WXtUD6tvzt)
-
-## My Youtube Videos
-- [Ideas Innovations and New App - The Study Desk](https://www.youtube.com/watch?v=REwCvoKjH1I&t=29s)
+I am Chirag Nahata, the developer of this website.
+[More Information](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
 
 ## Forms 
 - [Subscribe to our Newsletter](https://api.elasticemail.com/form?lid=IFU5WVGLEcN-Nk62-VzBYA2)
