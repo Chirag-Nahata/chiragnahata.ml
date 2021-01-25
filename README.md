@@ -25,7 +25,8 @@ I am Chirag Nahata, the developer of this website.
 - [Appointment](https://meetings.hubspot.com/chiragnahata05) : Book a appointment with me
 
 # CBSE
-- [Official Website](https://cbse.nic.in/)
+- [Official Website](https://www.cbse.gov.in/)
+- [CBSE Academics](http://cbseacademic.nic.in/)
 
 ## Class 10 
 
