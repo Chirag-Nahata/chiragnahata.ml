@@ -1,7 +1,9 @@
 # Info
 Hi Everyone, 
 I am Chirag Nahata, the developer of this website.
-[More Information](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
+[About](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
+[Security](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/SECURITY.md)
+[Lisence](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/LICENSE)
 
 ## Forms 
 - [Subscribe to our Newsletter](https://api.elasticemail.com/form?lid=IFU5WVGLEcN-Nk62-VzBYA2)
