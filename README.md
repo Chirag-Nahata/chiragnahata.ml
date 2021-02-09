@@ -4,7 +4,7 @@ I am Chirag Nahata, the developer of this website.
 - [My another website](https://chiragnahata780142388.wordpress.com/)
 - [About](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
 - [Security](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/SECURITY.md)
-- [Lisence](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/LICENSE)
+- [License](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/LICENSE)
 
 ## Forms 
 - [Subscribe to our Newsletter](https://api.elasticemail.com/form?lid=IFU5WVGLEcN-Nk62-VzBYA2)
