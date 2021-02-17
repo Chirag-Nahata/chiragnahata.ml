@@ -1,7 +1,7 @@
 # Info
 Hi Everyone, 
 I am Chirag Nahata, the developer of this website.
-- [My another website](https://chiragnahata780142388.wordpress.com/)
+- [My another website](https://chiragnahata.wixsite.com/chiragnahata)
 - [About](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/about.md)
 - [Security](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/SECURITY.md)
 - [License](https://github.com/Chirag-Nahata/chirag-nahata.github.io/blob/main/LICENSE)
